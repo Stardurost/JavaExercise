@@ -43,7 +43,7 @@ Create a program that converts a string from a sequence of words separated by sp
 
 ### Task 7.</br>
 Create a program that removes duplicate characters from the input string.</br>
-<b>Input requirements:</b> string with an arbitrary number of characters. 
+<b>Input requirements:</b> string with an arbitrary number of characters. </br>
 <b>Output requirements:</b> modified string with unique characters.</br>
 ![image](https://user-images.githubusercontent.com/88589361/234234712-1994053d-0c8e-43b7-8d3f-d144e4d4d851.png)
 
@@ -54,7 +54,7 @@ Create a program that finds all substrings of a given string that are palindrome
 ![image](https://user-images.githubusercontent.com/88589361/234234876-1a056bb2-1d57-4d33-a62e-5813d08041ba.png)
 
 ### Task 9.</br>
-Create a program that determines how many times a word occurs in a given string. The result is output to the console. 
+Create a program that determines how many times a word occurs in a given string. The result is output to the console. </br>
 <b>Input requirements:</b> string with an arbitrary number of words and the search word.</br>
 <b>Output requirements:</b> number indicating the number of times the search word occurs in the string.</br>
 ![image](https://user-images.githubusercontent.com/88589361/234235086-0a496f36-d0cd-45fe-8993-741d2b488db3.png)
@@ -94,14 +94,15 @@ Create a program that finds the most occurring word in a given string. The resul
 ![image](https://user-images.githubusercontent.com/88589361/234236421-c7e0139f-dbbc-4da2-84fa-c51abcbd6329.png)
 
 ### Task 15.</br>
-Write a program that determines if a string is a palindrome. The result is output to the console. 
+Write a program that determines if a string is a palindrome. The result is output to the console. </br>
 <b>Input requirements:</b> string with an arbitrary number of characters. </br>
 <b>Output requirements:</b>  the answer to the question of whether the string is a palindrome.</br>
 ![image](https://user-images.githubusercontent.com/88589361/234236497-62e0e868-fd25-44a5-adba-e8eaa7fe22e1.png)
 
 ### Task 16.</br>
 Write a program that checks if an array is symmetrical about its center. The result is output to the console. </br>
-<b>Input requirements:</b> data is an array with an arbitrary number of elements. <b>Output requirements:</b> is the answer to the question of whether the array is symmetrical. Evaluation: the correct operation of the program with any array size.</br>
+<b>Input requirements:</b> data is an array with an arbitrary number of elements.</br>
+<b>Output requirements:</b> is the answer to the question of whether the array is symmetrical. Evaluation: the correct operation of the program with any array size.</br>
 ![image](https://user-images.githubusercontent.com/88589361/234238301-c9b2f1a5-ff1e-496e-b36d-2a55aa0bcd03.png)
 
 
