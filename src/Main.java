@@ -106,15 +106,26 @@ public static void main(String[] args) {
     }
     public static void secondTask(){
         Scanner in = new Scanner(System.in);                // определение класса Scanner для получения значений с клавиатуры
-        System.out.print("\nВведите 2 числа: ");
-        double firstNumber = in.nextDouble();
-        double secondNumber = in.nextDouble();
+        System.out.print("\nВведите количество чисел: ");
+        var count = Integer.parseInt(in.nextLine());
+        List<Double> numbers = new ArrayList<>();
+        System.out.print("\nВведите числа: ");
 
-        System.out.print("Введённые числа: " + firstNumber + " и " + secondNumber);
+        for (int i = 0; i < count; i++) {
+            numbers.add(Double.parseDouble(in.nextLine())); // заполняем массив элементами, введёнными с клавиатуры
+        }
+
+        Double sum = 0.0;
+        Double pr = 1.0;
+        for (var item: numbers){
+            sum += item;
+            pr *= item;
+        }
         System.out.print("\nСреднее арифметическое: ");
-        System.out.printf("%.2f",(firstNumber + secondNumber) / 2);
+        System.out.printf("%.2f", sum / count);
         System.out.print("\nСреднее геометрическое: ");
-        System.out.printf("%.2f", Math.sqrt(firstNumber * secondNumber));
+        Double exponent = 1.0 / count;
+        System.out.printf("%.2f", Math.pow(pr, exponent));
     }
     public static void thirdTask(){
         Scanner in = new Scanner(System.in);
