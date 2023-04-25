@@ -1,5 +1,5 @@
 # JavaExercise
-## Here are 10 assignments for algorithms, arrays, loops and recursions.
+## Here are 21 assignments for algorithms, arrays, loops and recursions.
 ### Task 1.</br>
 Write a program that finds all prime numbers in a given range.</br>
 <b>Input requirements:</b> two integer values - the left and right limits of the range. </br>
