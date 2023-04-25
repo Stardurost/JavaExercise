@@ -4,14 +4,14 @@
 Write a program that finds all prime numbers in a given range.</br>
 <b>Input requirements:</b> two integer values - the left and right limits of the range. </br>
 <b>Output data requirements:</b> a list of all primes found in the range. </br>
-<b>Output requirements:</b> each found prime number on a new line.
+<b>Output requirements:</b> each found prime number on a new line.</br>
 ![image](https://user-images.githubusercontent.com/88589361/234223009-ecbcd5f3-d501-4255-8752-07e5de9fc7b3.png)
 
 ### Task 2.</br>
 Write a program that calculates the arithmetic mean and geometric mean of a given set of numbers.</br>
 <b>Input requirements:</b> an arbitrary number of integer or fractional numbers. </br>
 <b>Output data requirements:</b> two numbers - the arithmetic mean and the geometric mean.</br>
-<b>Output requirements:</b> print both numbers to the console, separating them with a space.
+<b>Output requirements:</b> print both numbers to the console, separating them with a space.</br>
 ![image](https://user-images.githubusercontent.com/88589361/234230845-24eff9cf-ee31-4c90-983d-c721915e34ff.png)
 
 ### Task 3.</br>
@@ -44,7 +44,7 @@ Create a program that converts a string from a sequence of words separated by sp
 ### Task 7.</br>
 Create a program that removes duplicate characters from the input string.</br>
 <b>Input requirements:</b> string with an arbitrary number of characters. 
-<b>Output requirements:</b> modified string with unique characters.
+<b>Output requirements:</b> modified string with unique characters.</br>
 ![image](https://user-images.githubusercontent.com/88589361/234234712-1994053d-0c8e-43b7-8d3f-d144e4d4d851.png)
 
 ### Task 8.</br>
@@ -101,7 +101,7 @@ Write a program that determines if a string is a palindrome. The result is outpu
 
 ### Task 16.</br>
 Write a program that checks if an array is symmetrical about its center. The result is output to the console. </br>
-<b>Input requirements:</b> data is an array with an arbitrary number of elements. <b>Output requirements:</b> is the answer to the question of whether the array is symmetrical. Evaluation: the correct operation of the program with any array size.
+<b>Input requirements:</b> data is an array with an arbitrary number of elements. <b>Output requirements:</b> is the answer to the question of whether the array is symmetrical. Evaluation: the correct operation of the program with any array size.</br>
 ![image](https://user-images.githubusercontent.com/88589361/234238301-c9b2f1a5-ff1e-496e-b36d-2a55aa0bcd03.png)
 
 
